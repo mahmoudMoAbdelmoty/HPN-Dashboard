@@ -28,6 +28,7 @@ Create the necessary relationships between the fact tables and lookup tables.
  - Quantity Returned.
 ### Dashboard Design
 ![text](https://github.com/mahmoudMoAbdelmoty/HPN-Dashboard/blob/main/transaction.jpg?raw=true)
+![text](https://github.com/mahmoudMoAbdelmoty/HPN-Dashboard/blob/main/net%20Sales.jpg?raw=true)
 ![text](https://github.com/mahmoudMoAbdelmoty/HPN-Dashboard/blob/main/product.jpg?raw=true)
 
 
